@@ -2,7 +2,7 @@
 # Kolla Konnect Slack Demo - Golang
 
 This is an example Slack integration built using Kolla Konnect for authentication and token management.
-See this tutorial to get setup.
+See [this tutorial](https://docs.getkolla.com/kolla/tutorials/build-a-slack-integration) to get setup.
 
 ## Secrets
 
