@@ -6,6 +6,9 @@ Learn how you can [build integrations with lightning speed](https://getkolla.com
 
 We plan on adding more languages soon!
 
+[Go](https://github.com/kollalabs/slack-demo/tree/main/go)
+
+
 ## Pre-requisites
 
 To use the code in these examples, you will need:
