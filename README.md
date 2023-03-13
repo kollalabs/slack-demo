@@ -1,4 +1,4 @@
-# Kolla Slack Demo APP
+# Kolla Slack Demo App
 
 This repo has example code for building Slack integrations using Kolla Konnect.
 
